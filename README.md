@@ -4,9 +4,13 @@ A Cryptanalaysis toolkit.
 
 ## Introduction
 
+For starters, we will aim at creating a clone of [this CrAnK](http://crank.sourceforge.net/about.html). It is written in C and relies on GTK+ (Glade) but was last updated in 2001 (I was 8 then.)
+
+We will have a lot of features to copy first and then we can extend them in every possible direction.
+
 **Interface:**
 
-We'll start with a basic interface with just two text boxes, one where ciphered text will be entered and the other where decrypted text will be generated.
+We'll begin with a basic interface with just two text boxes, one where ciphered text will be entered and the other where decrypted text will be generated.
 
 A status bar will be used to display progress of the decryption process.
 
