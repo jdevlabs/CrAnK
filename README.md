@@ -1,10 +1,12 @@
 # CrAnK
 
+*Status: Up for grabs. I had really grand plans for this project but other stuff came in my way (as it usually does.) Want to do this? I am here to help.*
+
 A Cryptanalaysis toolkit.
 
 ## Introduction
 
-For starters, we will aim at creating a clone of [this CrAnK](http://crank.sourceforge.net/about.html). It is written in C and relies on GTK+ (Glade) but was last updated in 2001 (I was 8 then.)
+For starters, we will aim at creating a clone of [this CrAnK](http://crank.sourceforge.net/about.html). It is written in C and relies on GTK+ (Glade) but was last updated in 2001
 
 We will have a lot of features to copy first and then we can extend them in every possible direction.
 
